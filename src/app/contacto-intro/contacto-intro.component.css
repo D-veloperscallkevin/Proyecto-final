@@ -1,0 +1,10 @@
+.mover{
+    display: flex;
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    
+}
+h1{
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.mover{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    background-image:url(src/assets/bghome.jpeg);
+    border-radius: 8px;
+    justify-content: center;
+}
+img{
+    display: flex;
+    margin: auto;
+    max-width: 70%;
+}
+
+p{
+    color: white;
+}

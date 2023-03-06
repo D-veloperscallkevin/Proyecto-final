@@ -1,0 +1,39 @@
+.contenedor{
+    margin: auto;
+    display: flex;
+    background-color: darkolivegreen;
+    align-items: center;
+    flex-direction: column;
+    width: 1000px;
+    height: 500px;
+    border-radius: 10px 10px 0 0 ;
+}
+
+.frases{
+    display: flex;
+    padding: 50px;
+    width: 700px;
+    height: 210px;
+}
+
+h1{
+    display: flex;
+    font-size: 23px;
+    align-items: center;
+    text-align: center;
+    color: darkgray;
+    font-family: sans serif;
+}
+
+h2{
+    display: flex;
+    font-size: 40px;
+    margin: auto;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+button{
+    display: flex;
+    margin: auto;
+}
