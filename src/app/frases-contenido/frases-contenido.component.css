@@ -1,12 +1,13 @@
 .contenedor{
     margin: auto;
     display: flex;
-    background-color: darkolivegreen;
+    background-image: url(src/assets/bg-frase.jpeg);
     align-items: center;
+    justify-content: center;
     flex-direction: column;
-    width: 1000px;
+    width: 800px;
     height: 500px;
-    border-radius: 10px 10px 0 0 ;
+    border-radius: 10px;
 }
 
 .frases{
@@ -36,4 +37,10 @@ h2{
 button{
     display: flex;
     margin: auto;
+}
+
+.btn{
+    border: 1px solid white;
+    color: aliceblue;
+    max-width: 50%;
 }
